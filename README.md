@@ -122,17 +122,6 @@ Some of the insights available from the dashboard include:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-### Page 1 – Netflix User Dashboard
-
-![Netflix Dashboard Page 1](netflix_dashboard%20ss1.PNG)
-
-### Page 2 – Netflix User Dashboard
-
-![Netflix Dashboard Page 2](netfix_dashboard%20ss2.PNG)
-
----
 
 ## 📁 Project Files
 
